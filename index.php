@@ -2,10 +2,10 @@
 
 //Defining
 require_once __DIR__.'/vendor/autoload.php';
-const CLIENT_ID = '511813901544-hpfrt2ui8ufcg5mugj2c59itg1ios2dg.apps.googleusercontent.com';
-const CLIENT_SECRET = '_tciNq88Vl-ec5yNcC3qPGkr';
-const API_KEY = 'AIzaSyAvilvgSBDcdILaHlmYVl1slAsr4d2BxlA';
-const REDIRECT_URL = 'http://localhost/exercise-05/';
+const CLIENT_ID = 'Your-Client_ID';
+const CLIENT_SECRET = 'Your-Client_Secret';
+const API_KEY = 'Your-API_Key';
+const REDIRECT_URL = 'Your-Redirect_URL';
 
 session_start();
 
